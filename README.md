@@ -4,4 +4,5 @@ A little software that helps users to upload a several Cms to destination server
 This software is written in python 2.7 and uses different external library. 
 
 Important note : use pip install cryptography library before launch main class.
+
 Important note 2: is needed in this version a folder in root called "binaries"
